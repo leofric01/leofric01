@@ -84,14 +84,14 @@ HTML • AI-assisted development
 05  Build it better.
 06  Repeat.
 Quiet work. Loud results.
-🔗 ENCRYPTED CONNECTION
-�
+## 🔐 ENCRYPTED CONNECTION
 
-�
-￼ 
-�
-￼ 
-�
-
-�
+<p align="center">
+  <a href="https://github.com/leofric01">
+    <img src="https://img.shields.io/badge/GitHub-LEOFRIC01-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/moaz-abdelkader-abobaker-899a592b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Moaz_Abdelkader-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 ⚡ LEOFRIC01
