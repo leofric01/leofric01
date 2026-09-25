@@ -47,3 +47,51 @@
 │ AI           : EXPLORING                 │
 │ DISTRACTION  : MINIMIZED                 │
 └──────────────────────────────────────────┘
+
+DISCIPLINE  ███████████████████░  95%
+CURIOSITY   ████████████████████  100%
+CODING      █████████████████░░░  85%
+EGO         ███████████████░░░░░  75%
+SLEEP       ██████░░░░░░░░░░░░░░  30%
+
+🏆 ACHIEVEMENT LOG
+🥇 1st Place — Business Mathematics Competition
+🥈 2nd Place — Computer Star Competition
+🥈 2nd Place — Azama wa Galal Misr Competition
+🎓 Member — Qena Talented Students Club
+💻 Technical Field Ambassador
+🌐 Programming Community Founder
+🚀 PROJECT DATABASE
+🇪🇬 Egypt-in-a-Box
+Interactive Python project exploring Ancient Egyptian history, pharaohs, pyramids, and Egyptian culture.
+Python • CustomTkinter
+→ View Project⁠�
+🔐 K.O.B TECHNOLOGIES
+Early prototype of a cybersecurity-focused startup platform, built with AI-assisted development tools.
+HTML • AI-assisted development
+→ View Project⁠�
+🧩 CERTIFICATION LOG
+🐍 Cisco — Python Essentials 1
+⚙️ M3aarf — C++ Programming
+💻 SoloLearn — C++
+🐍 SoloLearn — Python
+🌐 SoloLearn — HTML5
+⚡ OPERATING PRINCIPLES
+01  Learn something difficult.
+02  Build something real.
+03  Break it.
+04  Understand why.
+05  Build it better.
+06  Repeat.
+Quiet work. Loud results.
+🔗 ENCRYPTED CONNECTION
+�
+
+�
+￼ 
+�
+￼ 
+�
+
+�
+⚡ LEOFRIC01
